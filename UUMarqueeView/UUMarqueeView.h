@@ -12,7 +12,7 @@
 
 typedef NS_ENUM(NSUInteger, UUMarqueeViewDirection) {
     UUMarqueeViewDirectionUpward,   // scroll from bottom to top
-    UUMarqueeViewDirectionLeftward  // scroll from right to left
+    UUMarqueeViewDirectionLeftward  // scroll from right to left by jade
 };
 
 #pragma mark - UUMarqueeViewDelegate
